@@ -1,0 +1,18 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chat bot initial stages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haroun Ansari",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "save": "^2.3.2"
+  }
+}
